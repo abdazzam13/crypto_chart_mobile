@@ -1,16 +1,32 @@
-# crypto_chart_mobile
+# Crypto Chart Mobile
 
-A new Flutter project.
+A Flutter application for displaying cryptocurrency price charts.
+
+## Flutter Version
+
+This project is built using Flutter version **3.22.2**.
+
+## Dart SDK 
+
+Flutter includes Dart, so you don’t need to install it separately.
+## Android Studio 
+
+Install Android Studio for the Android emulator. Make sure to install the necessary SDKs and create an Android Virtual Device (AVD).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to run the application on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/abdazzam13/crypto_chart_mobile.git
+   cd crypto_chart_mobile
+   ```
+2. **Get the dependencies**
+   ```bash
+   flutter pub get
+   ```
+3. **Run the application**: Ensure you have an emulator running or a physical device connected, then execute:
+   ```bash
+    flutter run
+   ```
