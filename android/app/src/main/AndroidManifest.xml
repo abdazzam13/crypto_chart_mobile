@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.crypto_chart_mobile">
    <application
-        android:label="crypto_chart_mobile"
+        android:label="Crypto Chart Mobile"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
